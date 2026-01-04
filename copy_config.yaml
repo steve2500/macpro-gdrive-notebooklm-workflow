@@ -1,0 +1,6 @@
+tasks:
+  - description: "Notebooklm - 0.Notebooklm_WIKI.20260102230129"
+    source_dir: "/Users/yang.yang/_Syno_Attachment/SynologyDrive/__Notebookllm/PRO/0.Notebooklm_WIKI.20260102230129/doc"
+    destination_dir: "/Users/yang.yang/Library/CloudStorage/GoogleDrive-yangyang2500@gmail.com/My Drive/1.Notebooklm_Pro/0.Notebooklm_WIKI.20260102230129"
+    files:
+      - "example_file.txt"
