@@ -1,9 +1,6 @@
 #!/usr/bin/env bash
-# version 1.0 - orig.sh
-# version 2.0 - v2.sh - 04/01/2025
-#               sync between Macpro(attachment folder) and gdrive
-# version 3.0 - 04/01/2025
-#               sync between obsidan and attachment. might need to convert from MD to docx
+# version 2.0
+
 set -euo pipefail
 
 # Set PATH for crontab compatibility
